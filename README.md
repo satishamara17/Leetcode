@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 4
+- **Total Problems Solved:** 5
 - **Easy:** 2 🟢
-- **Medium:** 2 🟡
+- **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/?envType=daily-question&envId=2026-02-25) | 🟢 Easy | python3 | 2026-02-27 |
 | [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/submissions/1932151351/?envType=daily-question&envId=2026-02-26) | 🟡 Medium | python3 | 2026-02-26 |
 | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/?envType=daily-question&envId=2026-02-23) | 🟡 Medium | python3 | 2026-02-23 |
+| [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/submissions/1936985887/?envType=daily-question&envId=2026-03-03) | 🟡 Medium | python3 | 2026-03-03 |
 
 ---
 
