@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 6
-- **Easy:** 3 🟢
+- **Total Problems Solved:** 7
+- **Easy:** 4 🟢
 - **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/submissions/1944584882/?envType=daily-question&envId=2026-03-11) | 🟢 Easy | python3 | 2026-03-11 |
 | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/submissions/1930155907/?envType=daily-question&envId=2026-02-24) | 🟢 Easy | python3 | 2026-02-24 |
 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/?envType=daily-question&envId=2026-02-25) | 🟢 Easy | python3 | 2026-02-27 |
 | [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/submissions/1940036897/?envType=daily-question&envId=2026-03-06) | 🟢 Easy | python3 | 2026-03-06 |
