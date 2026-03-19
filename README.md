@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 9
+- **Total Problems Solved:** 10
 - **Easy:** 4 🟢
-- **Medium:** 5 🟡
+- **Medium:** 6 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -21,6 +21,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/?envType=daily-question&envId=2026-02-23) | 🟡 Medium | python3 | 2026-02-23 |
 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/submissions/1936985887/?envType=daily-question&envId=2026-03-03) | 🟡 Medium | python3 | 2026-03-03 |
 | [3070. Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/?envType=daily-question&envId=2026-03-18) | 🟡 Medium | python3 | 2026-03-18 |
+| [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/submissions/1953195617/?envType=daily-question&envId=2026-03-19) | 🟡 Medium | python3 | 2026-03-19 |
 | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/submissions/1947055405/?envType=daily-question&envId=2026-03-13) | 🟡 Medium | python3 | 2026-03-13 |
 
 ---
