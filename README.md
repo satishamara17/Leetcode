@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 15
+- **Total Problems Solved:** 16
 - **Easy:** 8 🟢
-- **Medium:** 7 🟡
+- **Medium:** 8 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3070. Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/?envType=daily-question&envId=2026-03-18) | 🟡 Medium | python3 | 2026-03-18 |
 | [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/submissions/1953195617/?envType=daily-question&envId=2026-03-19) | 🟡 Medium | python3 | 2026-03-19 |
 | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/submissions/1947055405/?envType=daily-question&envId=2026-03-13) | 🟡 Medium | python3 | 2026-03-13 |
+| [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/submissions/1966893987/?envType=daily-question&envId=2026-04-02) | 🟡 Medium | python3 | 2026-04-02 |
 
 ---
 
