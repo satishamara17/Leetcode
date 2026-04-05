@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
-- **Easy:** 8 🟢
+- **Total Problems Solved:** 18
+- **Easy:** 9 🟢
 - **Medium:** 8 🟡
 - **Hard:** 1 🔴
 
@@ -21,6 +21,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/submissions/1966265001/?envType=daily-question&envId=2026-03-29) | 🟢 Easy | python3 | 2026-04-01 |
 | [2946. Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/submissions/1960438565/?envType=daily-question&envId=2026-03-27) | 🟢 Easy | python3 | 2026-03-27 |
 | [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/submissions/1955936156/?envType=daily-question&envId=2026-03-21) | 🟢 Easy | python3 | 2026-03-22 |
+| [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/submissions/1969037482/?envType=daily-question&envId=2026-04-05) | 🟢 Easy | python3 | 2026-04-05 |
 | [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/submissions/1932151351/?envType=daily-question&envId=2026-02-26) | 🟡 Medium | python3 | 2026-02-26 |
 | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/?envType=daily-question&envId=2026-02-23) | 🟡 Medium | python3 | 2026-02-23 |
 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/submissions/1936985887/?envType=daily-question&envId=2026-03-03) | 🟡 Medium | python3 | 2026-03-03 |
