@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 22
+- **Total Problems Solved:** 23
 - **Easy:** 9 🟢
 - **Medium:** 11 🟡
-- **Hard:** 2 🔴
+- **Hard:** 3 🔴
 
 ## 📝 Problems
 
@@ -33,6 +33,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/submissions/1966893987/?envType=daily-question&envId=2026-04-02) | 🟡 Medium | python3 | 2026-04-02 |
 | [3741. Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/submissions/1975818043/?envType=daily-question&envId=2026-04-11) | 🟡 Medium | python3 | 2026-04-11 |
 | [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/submissions/1970399479/?envType=daily-question&envId=2026-04-06) | 🟡 Medium | python3 | 2026-04-06 |
+| [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/submissions/1976802607/?envType=daily-question&envId=2026-04-12) | 🔴 Hard | python3 | 2026-04-12 |
 | [3655. XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/submissions/1973739100/?envType=daily-question&envId=2026-04-09) | 🔴 Hard | python3 | 2026-04-09 |
 | [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/submissions/1967977580/?envType=daily-question&envId=2026-04-03) | 🔴 Hard | python3 | 2026-04-03 |
 
