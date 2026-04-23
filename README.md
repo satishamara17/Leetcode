@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 25
+- **Total Problems Solved:** 26
 - **Easy:** 9 🟢
-- **Medium:** 13 🟡
+- **Medium:** 14 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/submissions/1984497786/?envType=daily-question&envId=2026-04-21) | 🟡 Medium | python3 | 2026-04-21 |
 | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/submissions/1969038419/?envType=daily-question&envId=2026-04-04) | 🟡 Medium | python3 | 2026-04-05 |
 | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/submissions/1985445580/?envType=daily-question&envId=2026-04-22) | 🟡 Medium | python3 | 2026-04-22 |
+| [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/submissions/1986520001/?envType=daily-question&envId=2026-04-23) | 🟡 Medium | python3 | 2026-04-23 |
 | [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/submissions/1966268912/?envType=daily-question&envId=2026-03-30) | 🟡 Medium | python3 | 2026-04-01 |
 | [3070. Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/?envType=daily-question&envId=2026-03-18) | 🟡 Medium | python3 | 2026-03-18 |
 | [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/submissions/1953195617/?envType=daily-question&envId=2026-03-19) | 🟡 Medium | python3 | 2026-03-19 |
