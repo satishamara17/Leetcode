@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 28
+- **Total Problems Solved:** 29
 - **Easy:** 11 🟢
-- **Medium:** 14 🟡
+- **Medium:** 15 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/?envType=daily-question&envId=2026-02-23) | 🟡 Medium | python3 | 2026-02-23 |
 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/submissions/1936985887/?envType=daily-question&envId=2026-03-03) | 🟡 Medium | python3 | 2026-03-03 |
 | [1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/submissions/1984497786/?envType=daily-question&envId=2026-04-21) | 🟡 Medium | python3 | 2026-04-21 |
+| [1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/submissions/1987238526/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | python3 | 2026-04-24 |
 | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/submissions/1969038419/?envType=daily-question&envId=2026-04-04) | 🟡 Medium | python3 | 2026-04-05 |
 | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/submissions/1985445580/?envType=daily-question&envId=2026-04-22) | 🟡 Medium | python3 | 2026-04-22 |
 | [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/submissions/1986520001/?envType=daily-question&envId=2026-04-23) | 🟡 Medium | python3 | 2026-04-23 |
