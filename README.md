@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 26
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 27
+- **Easy:** 10 🟢
 - **Medium:** 14 🟡
 - **Hard:** 3 🔴
 
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/?envType=daily-question&envId=2026-02-25) | 🟢 Easy | python3 | 2026-02-27 |
 | [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/submissions/1940036897/?envType=daily-question&envId=2026-03-06) | 🟢 Easy | python3 | 2026-03-06 |
 | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/submissions/1955910265/?envType=daily-question&envId=2026-03-22) | 🟢 Easy | python3 | 2026-03-22 |
+| [2833. Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/submissions/1986633891/?envType=daily-question&envId=2026-04-24) | 🟢 Easy | python3 | 2026-04-24 |
 | [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/submissions/1966265001/?envType=daily-question&envId=2026-03-29) | 🟢 Easy | python3 | 2026-04-01 |
 | [2946. Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/submissions/1960438565/?envType=daily-question&envId=2026-03-27) | 🟢 Easy | python3 | 2026-03-27 |
 | [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/submissions/1955936156/?envType=daily-question&envId=2026-03-21) | 🟢 Easy | python3 | 2026-03-22 |
