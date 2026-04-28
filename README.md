@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 31
+- **Total Problems Solved:** 32
 - **Easy:** 11 🟢
-- **Medium:** 16 🟡
+- **Medium:** 17 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/submissions/1988677491/?envType=daily-question&envId=2026-04-26) | 🟡 Medium | python3 | 2026-04-26 |
 | [1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/submissions/1984497786/?envType=daily-question&envId=2026-04-21) | 🟡 Medium | python3 | 2026-04-21 |
 | [1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/submissions/1987238526/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | python3 | 2026-04-24 |
+| [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/submissions/1989816140/?envType=daily-question&envId=2026-04-28) | 🟡 Medium | python3 | 2026-04-28 |
 | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/submissions/1969038419/?envType=daily-question&envId=2026-04-04) | 🟡 Medium | python3 | 2026-04-05 |
 | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/submissions/1985445580/?envType=daily-question&envId=2026-04-22) | 🟡 Medium | python3 | 2026-04-22 |
 | [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/submissions/1986520001/?envType=daily-question&envId=2026-04-23) | 🟡 Medium | python3 | 2026-04-23 |
