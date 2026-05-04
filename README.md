@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 37
+- **Total Problems Solved:** 38
 - **Easy:** 12 🟢
-- **Medium:** 20 🟡
+- **Medium:** 21 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -43,6 +43,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3741. Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/submissions/1975818043/?envType=daily-question&envId=2026-04-11) | 🟡 Medium | python3 | 2026-04-11 |
 | [3742. Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/submissions/1992064895/?envType=daily-question&envId=2026-04-30) | 🟡 Medium | python3 | 2026-04-30 |
 | [396. Rotate Function](https://leetcode.com/problems/rotate-function/submissions/1993668288/?envType=daily-question&envId=2026-05-01) | 🟡 Medium | python3 | 2026-05-02 |
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/submissions/1995049478/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | python3 | 2026-05-04 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/submissions/1993666083/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
 | [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/submissions/1970399479/?envType=daily-question&envId=2026-04-06) | 🟡 Medium | python3 | 2026-04-06 |
 | [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/submissions/1976802607/?envType=daily-question&envId=2026-04-12) | 🔴 Hard | python3 | 2026-04-12 |
