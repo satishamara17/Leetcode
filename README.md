@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 38
+- **Total Problems Solved:** 39
 - **Easy:** 12 🟢
-- **Medium:** 21 🟡
+- **Medium:** 22 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/submissions/1953195617/?envType=daily-question&envId=2026-03-19) | 🟡 Medium | python3 | 2026-03-19 |
 | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/submissions/1947055405/?envType=daily-question&envId=2026-03-13) | 🟡 Medium | python3 | 2026-03-13 |
 | [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/submissions/1966893987/?envType=daily-question&envId=2026-04-02) | 🟡 Medium | python3 | 2026-04-02 |
+| [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/submissions/1997140858/?envType=daily-question&envId=2026-05-07) | 🟡 Medium | python3 | 2026-05-07 |
 | [3741. Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/submissions/1975818043/?envType=daily-question&envId=2026-04-11) | 🟡 Medium | python3 | 2026-04-11 |
 | [3742. Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/submissions/1992064895/?envType=daily-question&envId=2026-04-30) | 🟡 Medium | python3 | 2026-04-30 |
 | [396. Rotate Function](https://leetcode.com/problems/rotate-function/submissions/1993668288/?envType=daily-question&envId=2026-05-01) | 🟡 Medium | python3 | 2026-05-02 |
