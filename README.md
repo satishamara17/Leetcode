@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 41
+- **Total Problems Solved:** 42
 - **Easy:** 12 🟢
-- **Medium:** 24 🟡
+- **Medium:** 25 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/submissions/1955936156/?envType=daily-question&envId=2026-03-21) | 🟢 Easy | python3 | 2026-03-22 |
 | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/submissions/1969037482/?envType=daily-question&envId=2026-04-05) | 🟢 Easy | python3 | 2026-04-05 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/submissions/1994355169/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | python3 | 2026-05-03 |
+| [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/submissions/2005703847/?envType=daily-question&envId=2026-05-17) | 🟡 Medium | python3 | 2026-05-17 |
 | [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/submissions/1932151351/?envType=daily-question&envId=2026-02-26) | 🟡 Medium | python3 | 2026-02-26 |
 | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/?envType=daily-question&envId=2026-02-23) | 🟡 Medium | python3 | 2026-02-23 |
 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/submissions/1936985887/?envType=daily-question&envId=2026-03-03) | 🟡 Medium | python3 | 2026-03-03 |
