@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 42
+- **Total Problems Solved:** 43
 - **Easy:** 12 🟢
-- **Medium:** 25 🟡
+- **Medium:** 26 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -39,6 +39,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/submissions/1986520001/?envType=daily-question&envId=2026-04-23) | 🟡 Medium | python3 | 2026-04-23 |
 | [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/submissions/2000063015/?envType=daily-question&envId=2026-05-10) | 🟡 Medium | python3 | 2026-05-10 |
 | [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/submissions/1966268912/?envType=daily-question&envId=2026-03-30) | 🟡 Medium | python3 | 2026-04-01 |
+| [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/?envType=daily-question&envId=2026-05-21) | 🟡 Medium | python3 | 2026-05-21 |
 | [3070. Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/?envType=daily-question&envId=2026-03-18) | 🟡 Medium | python3 | 2026-03-18 |
 | [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/submissions/1953195617/?envType=daily-question&envId=2026-03-19) | 🟡 Medium | python3 | 2026-03-19 |
 | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/submissions/1947055405/?envType=daily-question&envId=2026-03-13) | 🟡 Medium | python3 | 2026-03-13 |
